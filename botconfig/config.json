@@ -1,0 +1,9 @@
+{
+  "token": "DISCORD_BOT_TOKEN",
+  "mongo": "MONGO_DB_URL",
+  "prefix": "PREFIX_OF_THE_BOT",
+  "ownerIDS": [
+  "940915037655171074",
+  "937926474344841306"
+  ]
+}
