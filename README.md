@@ -24,7 +24,7 @@ npm install && node bot.js
 ### Credits 
 
 * [x] `Void.#1337` - **Developer Of SkidAlert**
-* [x] `Yogi#0360` - **Commands & Event Handlers**
+* [x] `Yogi#0360` - **Commands, Event Handlers**
 
 ---------------------------------------
 
